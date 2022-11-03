@@ -1,0 +1,5 @@
+alt = int(input("Informe a Altura "))
+comp = int(input("Informe o Comprimento "))
+larg = int(input("Informe a largura "))
+calc = (alt * comp * larg)
+print("O volume do seu Paralelepipedo é ",calc)
